@@ -12,15 +12,15 @@ Before training the models, we performed preprocessing steps to enhance the qual
 
 #### SAMPLE IMAGE:
 
-![image](https://github.com/krishna-akula2003/Deep-Learning-Approaches-for-ECG-Image-Classification-in-Cardiovascular-Disease-Diagnosis/assets/138143431/ba51ec97-34bc-45d9-bcd0-1e177a99e2e9)
+               ![image](https://github.com/krishna-akula2003/Deep-Learning-Approaches-for-ECG-Image-Classification-in-Cardiovascular-Disease-Diagnosis/assets/138143431/ba51ec97-34bc-45d9-bcd0-1e177a99e2e9)
 
 ### CROPPING IMAGE:
 
-![image](https://github.com/krishna-akula2003/Deep-Learning-Approaches-for-ECG-Image-Classification-in-Cardiovascular-Disease-Diagnosis/assets/138143431/d2c4afd5-0724-46e2-858c-bf5137d9a981)
+                ![image](https://github.com/krishna-akula2003/Deep-Learning-Approaches-for-ECG-Image-Classification-in-Cardiovascular-Disease-Diagnosis/assets/138143431/d2c4afd5-0724-46e2-858c-bf5137d9a981)
 
 ### GRAYSCALED IMAGE:
 
-![image](https://github.com/krishna-akula2003/Deep-Learning-Approaches-for-ECG-Image-Classification-in-Cardiovascular-Disease-Diagnosis/assets/138143431/cdf9995c-dade-460c-8720-90dbb5d64f5a) 
+                ![image](https://github.com/krishna-akula2003/Deep-Learning-Approaches-for-ECG-Image-Classification-in-Cardiovascular-Disease-Diagnosis/assets/138143431/cdf9995c-dade-460c-8720-90dbb5d64f5a) 
 
 ### MODEL IMPLEMENTATION:
 
