@@ -12,7 +12,8 @@ Before training the models, we performed preprocessing steps to enhance the qual
 
 #### SAMPLE IMAGE:
 
-  ![image](https://github.com/krishna-akula2003/Deep-Learning-Approaches-for-ECG-Image-Classification-in-Cardiovascular-Disease-Diagnosis/assets/138143431/6bb2137f-fc7d-4b63-b96d-453f8b6dd29b)
+  ![test (1)](https://github.com/krishna-akula2003/Deep-Learning-Approaches-for-ECG-Image-Classification-in-Cardiovascular-Disease-Diagnosis/assets/138143431/9a026b87-c379-4e19-ad98-154039bcd813)
+
 
 ### CROPPING IMAGE:
 
