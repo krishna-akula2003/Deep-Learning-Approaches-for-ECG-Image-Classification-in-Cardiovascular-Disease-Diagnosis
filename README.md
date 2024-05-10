@@ -40,10 +40,9 @@ From the trained CNN models, we extracted feature matrices. These matrices encap
 ### Classifier Implementation:
 Using the extracted feature matrices, we implemented various classifiers, including:
 - **Perceptron**
-- **Naive Bayes**
-- **(Mention other classifiers used)**
+- **Naive Bayes and other classifiers**  
 
 These classifiers were trained on the feature matrices to learn the underlying patterns and relationships in the data.
 
 ### Conclusion:
- using Xception model i got 98 percent acccuracy.
+Xception model acheived 98 percent acccuracy.
