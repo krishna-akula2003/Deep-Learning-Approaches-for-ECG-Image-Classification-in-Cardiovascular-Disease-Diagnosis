@@ -6,6 +6,7 @@ This project focuses on using deep learning techniques to classify electrocardio
 2. **ECG Images of Patients with abnormal heartbeat**
 3. **ECG Images of Patients with a history of MI**
 4. **Normal Person ECG Images**
+### DATASET link: https://data.mendeley.com/datasets/gwbz3fsgp8/2
 
 ### Preprocessing:
 Before training the models, we performed preprocessing steps to enhance the quality of the ECG images. These steps included cropping to remove irrelevant edges and removing gridlines for better clarity. While normalization was considered, it wasn't included in this particular implementation.
