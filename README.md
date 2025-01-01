@@ -1,4 +1,4 @@
-
+IEEE PAPER link:https://ieeexplore.ieee.org/document/10796798/
 ### Project Overview:
 This project focuses on using deep learning techniques to classify electrocardiogram (ECG) images for the diagnosis of cardiovascular diseases. The dataset comprises ECG images belonging to four distinct classes:
 
