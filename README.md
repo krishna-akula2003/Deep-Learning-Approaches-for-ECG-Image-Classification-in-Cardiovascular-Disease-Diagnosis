@@ -2,6 +2,7 @@ IEEE PAPER link:https://ieeexplore.ieee.org/document/10796798/
 ### Project Overview:
 This project focuses on using deep learning techniques to classify electrocardiogram (ECG) images for the diagnosis of cardiovascular diseases. The dataset comprises ECG images belonging to four distinct classes:
 
+
 1. **ECG Images of Myocardial Infarction Patients**
 2. **ECG Images of Patients with abnormal heartbeat**
 3. **ECG Images of Patients with a history of MI**
@@ -47,3 +48,6 @@ These classifiers were trained on the feature matrices to learn the underlying p
 
 ### Conclusion:
 Xception model acheived 98 percent acccuracy.
+
+FUTURE WORK:
+IMPLEMENTING AN WEB BASED APPLICATION
