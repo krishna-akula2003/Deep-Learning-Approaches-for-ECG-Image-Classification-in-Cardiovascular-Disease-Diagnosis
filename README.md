@@ -50,4 +50,4 @@ These classifiers were trained on the feature matrices to learn the underlying p
 Xception model acheived 98 percent acccuracy.
 
 FUTURE WORK:
-IMPLEMENTING AN WEB BASED APPLICATION
+IMPLEMENTING AN WEB BASED APPLICATION FOR PREDICTING THE DISEASE
